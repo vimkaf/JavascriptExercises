@@ -3,10 +3,13 @@
  * 
  * 
  * 2. Write a JavaScript program to construct the following pattern, using a nested for loop
-*  
-* *  
-* * *  
-* * * *  
-* * * * * 
+ *     *  
+ *     * *  
+ *     * * *  
+ *     * * * *  
+ *     * * * * * 
  */
-var a = 5;
+//Solution by pascal
+
+
+//End of solution
